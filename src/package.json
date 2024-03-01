@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "back_portfolio"
+    "url": "git+https://github.com/MaxRichet/back_portfolio"
   },
   "author": "",
   "license": "ISC",
