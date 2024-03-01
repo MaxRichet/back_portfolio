@@ -1,0 +1,14 @@
+{
+    "projects":{
+        "p1":{
+            "img": "img.png",
+            "description": "Landing page for Simhati brand",
+            "tag": "Dev"
+        },
+        "p2":{
+            "img": "img.png",
+            "description": "Webdesign for tips management web application",
+            "tag": "Webdesign"
+        }
+    }
+}
