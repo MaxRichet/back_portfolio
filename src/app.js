@@ -9,7 +9,10 @@ server.use(express.urlencoded());
 server.use(express.json());
 
 const aboutRoute = require('./api/routes/aboutRoute.js');
+const projectRoute = require('./api/routes/projectRoute.js');
+
 aboutRoute(server);
+projectRoute(server);
 
 server.listen(port, hostname, () => {
     console.log(`Serveur qui toune sur le port ${port}`)
